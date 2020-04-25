@@ -1,2 +1,2 @@
 # jogo_advinha
-Jogo de advinha números entre 1 e 100.
+Jogo de advinhar números entre 1 e 100.
